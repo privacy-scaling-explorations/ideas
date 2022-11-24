@@ -7,7 +7,7 @@ until potential decision for implementation.
 _Inspired by the [EIP process](https://eips.ethereum.org/EIPS/eip-1) (lighter,less formal/technical process.)_. 
 
 ```mermaid
-graph TB
+graph LR
   reframe --> rework[Rework idea]
 
   open([Open Issue])--> draft[Draft]
