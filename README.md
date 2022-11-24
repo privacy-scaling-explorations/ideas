@@ -1,7 +1,7 @@
 # PSE Ideas
 ## Rationale
-This repository and the corresponding process intends to support collecting ideas and track their status till potential
-decision for implementation.
+This repository and the corresponding process intend to support collecting ideas and track their status
+until potential decision for implementation.
 
 ## Process
 _Inspired by the [EIP process](https://eips.ethereum.org/EIPS/eip-1) (lighter,less formal/technical process.)_. 
@@ -29,14 +29,12 @@ graph TB
   rework --> withdrawn
   
   style pitch stroke-dasharray: 3 3
-  
-  click open href "https://github.com/privacy-scaling-explorations/ideas/issues/new/choose" "Create new idea proposal"
 ```
 
-- draft: idea tracked as an issue in this idea repository
-- ready: once the idea author marks an idea as ready, the PSE team will review
-- pitch: monthly pitch dasy will take place and can be optionally the opporunity for authors to present their ideas
+- draft: idea tracked as an issue in this idea repository.
+- ready: once the idea's author marks an idea as ready, the PSE team will review it.
+- pitch: a monthly pitch day will take place and can be the opportunity for authors to present their ideas.
 - decision:
-  - rework: idea needs to be refined or rescoped
-  - start project: the PSE group will support the implementation of the idea
-  - do not start project 
+  - rework: idea needs to be refined or scope needs to be adjusted.
+  - start project: the PSE group will support the implementation of the idea.
+  - do not start project.
