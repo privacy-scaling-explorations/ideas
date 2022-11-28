@@ -7,34 +7,33 @@ assignees: ''
 
 ---
 
-# Idea Proposal
+# Name/Title
 
-## Name/Title
-Name of the idea.
-
-## Short Description
+## Project Description and Details
 Short description of the project.
 
-## Problem Statement
-Description of the problem(s) you are trying to solve.
+### Problem Statement
+* Description of the problem(s) you are trying to solve.
 
-## Solution 
+### Solution 
 Description of the solution you propose.
 
-## Key Stakeholders
-Key stakeholders of the project or parties that may be involved.
-
-## Benefits
+### Benefits
 Benefits of the solution you propose.
 
-## Project Timeline
-Description of the project's phases, including timeline and deadlines.
+## Project Planning
 
-## Project MVP
+### Project MVP
 Description of what the MVP (Minimum Viable Product) of the project will be.
 
-## Nice to haves
+### Timeline
+Description of the project's phases, including timeline and deadlines.
+
+### Key Stakeholders
+* Key stakeholders of the project or parties that may be involved.
+
+### Nice to haves
 List of nice to haves features for the project or features that would be developed **after** the MVP.
 
-## Tech Stack
+### Tech Stack
 The technology stack that will be used to develop and maintain the project.
